@@ -21,7 +21,7 @@ Welcome to the NIH-CXR-SWIN repository, a project dedicated to Chest X-ray class
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
   <div>
-    <img src="images/visualization.png" alt="NIH chest xrays" width="200"/>
+    <img src="images/visualization.png" alt="NIH chest xrays" width="500"/>
     <p><em>Caption: A sample of Chestxray images from the NIH dataset.</em></p>
   </div>
 
@@ -57,12 +57,12 @@ Welcome to the NIH-CXR-SWIN repository, a project dedicated to Chest X-ray class
 
   <div>
     <p><em>Caption: Results of CAD-PE Segmentation</em></p>
-    <img src="images/AUC_scores.png" alt="Mean AUC Scores" width="300"/>
+    <img src="images/AUC_scores.png" alt="Mean AUC Scores" width="500"/>
     
   </div>
 
   <div>
-    <img src="images/pretrained_97_2ROC_Curve.png" alt="ROC Curve" width="400"/>
+    <img src="images/pretrained_97_2ROC_Curve.png" alt="ROC Curve" width="500"/>
     <p><em>Caption: Results of CAD-PE Localization</em></p>
   </div>
 
